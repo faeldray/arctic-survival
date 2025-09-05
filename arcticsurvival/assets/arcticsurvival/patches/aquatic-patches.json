@@ -1,0 +1,79 @@
+[
+	{
+		"op": "replace",
+		"path": "/0/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/1/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/2/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/3/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/4/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/5/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/6/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/7/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/8/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/9/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/10/minTemp",
+		"value": -20,
+		"file": "game:worldgen/blockpatches/aquatic.json",
+		"side": "server"
+	}
+]

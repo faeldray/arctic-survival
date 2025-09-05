@@ -1,0 +1,16 @@
+[
+	{
+		"op": "replace",
+		"path": "/server/spawnconditions/worldgen/minTemp",
+		"value": -15,
+		"file": "game:entities/animal/fish/salmon.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/server/spawnconditions/runtime/minTemp",
+		"value": -15,
+		"file": "game:entities/animal/fish/salmon.json",
+		"side": "server"
+	}
+]

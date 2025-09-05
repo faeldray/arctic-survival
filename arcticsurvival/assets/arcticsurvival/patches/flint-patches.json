@@ -1,0 +1,9 @@
+[
+	{
+		"op": "addmerge",
+		"path": "/0/attributes/inblock/allowedVariants",
+		"value": [ "andesite", "chert", "conglomerate", "granite", "basalt", "peridotite", "phyllite", "slate", "kimberlite", "bauxite" ],
+		"file": "game:worldgen/deposits/rock/flint.json",
+		"side": "server"
+	}
+]

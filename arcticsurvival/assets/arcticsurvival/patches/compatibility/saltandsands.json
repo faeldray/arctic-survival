@@ -1,0 +1,26 @@
+[
+	{
+		"op": "replace",
+		"path": "/1/minTemp",
+		"value": -18,
+		"file": "saltandsands:worldgen/blockpatches/bivalves.json",
+		"side": "server",
+		"dependsOn": [ { "modid": "saltandsands" } ]
+	},
+	{
+		"op": "replace",
+		"path": "/3/minTemp",
+		"value": -18,
+		"file": "saltandsands:worldgen/blockpatches/bivalves.json",
+		"side": "server",
+		"dependsOn": [ { "modid": "saltandsands" } ]
+	},
+	{
+		"op": "replace",
+		"path": "/5/minTemp",
+		"value": -18,
+		"file": "saltandsands:worldgen/blockpatches/bivalves.json",
+		"side": "server",
+		"dependsOn": [ { "modid": "saltandsands" } ]
+	}
+]

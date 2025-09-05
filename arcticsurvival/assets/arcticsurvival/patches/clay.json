@@ -1,0 +1,68 @@
+[
+	{
+		"op": "replace",
+		"path": "/0/climate/minTemp",
+		"value": -25,
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/1/climate/minTemp",
+		"value": -25,
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/2/climate/minTemp",
+		"value": -25,
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/3/climate/minTemp",
+		"value": -25,
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"path": "/0/attributes/inblock/allowedVariants",
+		"value": [ "verylow-none", "verylow-verysparse", "verylow-sparse", "verylow-normal" ],
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"path": "/1/attributes/inblock/allowedVariants",
+		"value": [ "verylow-none", "verylow-verysparse", "verylow-sparse", "verylow-normal" ],
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"path": "/0/attributes/placeblock/allowedVariantsByInBlock",
+		"value": {
+			"soil-verylow-none": ["none"],
+			"soil-verylow-verysparse": ["verysparse"],
+			"soil-verylow-sparse": ["verysparse"],
+			"soil-verylow-normal": ["verysparse"]
+		},
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"path": "/1/attributes/placeblock/allowedVariantsByInBlock",
+		"value": {
+			"soil-verylow-none": ["none"],
+			"soil-verylow-verysparse": ["verysparse"],
+			"soil-verylow-sparse": ["verysparse"],
+			"soil-verylow-normal": ["verysparse"]
+		},
+		"file": "game:worldgen/deposits/soil/clay.json",
+		"side": "server"
+	}
+]

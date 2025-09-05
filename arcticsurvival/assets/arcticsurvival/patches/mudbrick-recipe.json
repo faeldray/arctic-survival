@@ -1,0 +1,23 @@
+[
+	{
+		"op": "addmerge",
+		"path": "/0/ingredients/L/allowedVariants/-",
+		"value": "verylow",
+		"file": "game:recipes/grid/mudbricks.json",
+		"side": "server"
+	},
+	{
+		"op": "addmerge",
+		"path": "/1/ingredients/L/allowedVariants/-",
+		"value": "verylow",
+		"file": "game:recipes/grid/mudbricks.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/ingredients/L",
+		"value": { "type": "block", "code": "soil-*-none", "name": "grade", "allowedVariants": ["verylow", "low", "medium"] },
+		"file": "game:recipes/grid/slabs/mudbrickslab.json",
+		"side": "server"
+	}
+]

@@ -1,0 +1,9 @@
+[
+	{
+		"op": "replace",
+		"path": "/lakebedlayer/blockCodeByMin/0/minTemp",
+		"value": -18,
+		"file": "game:worldgen/blocklayers.json",
+		"side": "server"
+	}
+]

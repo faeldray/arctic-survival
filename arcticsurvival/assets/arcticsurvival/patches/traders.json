@@ -1,0 +1,20 @@
+[
+	{
+		"op": "remove",
+		"path": "/structures/19/minTemp",
+		"file": "game:worldgen/structures.json",
+		"side": "server"
+	},
+	{
+		"op": "remove",
+		"path": "/structures/20/minTemp",
+		"file": "game:worldgen/structures.json",
+		"side": "server"
+	},
+	{
+		"op": "remove",
+		"path": "/structures/21/minTemp",
+		"file": "game:worldgen/structures.json",
+		"side": "server"
+	}
+]

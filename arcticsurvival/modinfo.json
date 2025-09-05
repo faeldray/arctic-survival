@@ -1,0 +1,9 @@
+{
+	"type": "content",
+	"modId": "arcticsurvival",
+	"name": "Arctic Survival",
+	"authors": [ "Faeldray" ],
+	"description": "Tweaks for colder climate / Snowball Earth playthroughs",
+	"version": "1.0.0",
+	"dependencies": {}
+}

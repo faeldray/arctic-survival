@@ -1,0 +1,23 @@
+[
+	{
+		"op": "replace",
+		"path": "/attributes/stopBelowTemperature",
+		"value": -6,
+		"file": "game:blocktypes/plant/smallberrybush.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/attributes/resetBelowTemperature",
+		"value": -8,
+		"file": "game:blocktypes/plant/smallberrybush.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/attributes/revertBlockBelowTemperature",
+		"value": -18,
+		"file": "game:blocktypes/plant/smallberrybush.json",
+		"side": "server"
+	}
+]

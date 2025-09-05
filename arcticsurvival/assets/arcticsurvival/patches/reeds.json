@@ -1,0 +1,30 @@
+[
+	{
+		"file": "blocktypes/plant/reedpapyrus.json",
+		"op": "replace",
+		"path": "/attributes/transientPropsByType/tallplant-coopersreed-*/resetBelowTemperature",
+		"value": -21,
+		"side": "server"
+	},
+	{
+		"file": "blocktypes/plant/reedpapyrus.json",
+		"op": "replace",
+		"path": "/attributes/transientPropsByType/tallplant-coopersreed-*/stopBelowTemperature",
+		"value": -18,
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/0/minTemp",
+		"value": -18,
+		"file": "game:worldgen/blockpatches/other.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/1/minTemp",
+		"value": -18,
+		"file": "game:worldgen/blockpatches/other.json",
+		"side": "server"
+	}
+]

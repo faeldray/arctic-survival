@@ -1,0 +1,34 @@
+[
+	{
+		"comment": "Smaller patches of blueberries for cold climates",
+		"blockCodes": ["game:smallberrybush-blueberry-empty", "game:smallberrybush-blueberry-flowering", "game:smallberrybush-blueberry-ripe"],
+		"minTemp": -18,
+		"maxTemp": -2,
+		"minRain": 0.3,
+		"maxRain": 0.7,
+		"maxFertility": 0.5,
+		"chance": 0.08,
+		"minForest": 0.5,
+		"maxY": 0.85,
+		"offsetX": { "dist": "gaussian", "avg": 0, "var": 15 },
+		"offsetZ": { "dist": "gaussian", "avg": 0, "var": 15 },
+		"quantity": { "avg": 3, "var": 6 },
+		"placement": "OnSurfacePlusUnderTrees"
+	},
+	{
+		"comment": "Smaller patches of cranberries for cold climates",
+		"blockCodes": ["game:smallberrybush-cranberry-empty", "game:smallberrybush-cranberry-flowering", "game:smallberrybush-cranberry-ripe"],
+		"minTemp": -18,
+		"maxTemp": -2,
+		"minRain": 0.45,
+		"maxRain": 1,
+		"maxFertility": 1,
+		"chance": 0.06,
+		"maxForest": 0.7,
+		"maxY": 0.4,
+		"offsetX": { "dist": "gaussian", "avg": 0, "var": 15 },
+		"offsetZ": { "dist": "gaussian", "avg": 0, "var": 15 },
+		"quantity": { "avg": 3, "var": 6 },
+		"placement": "OnSurfacePlusUnderTrees"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"op": "replace",
+		"path": "/16/minTemp",
+		"value": -15,
+		"file": "game:worldgen/blockpatches/flower.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/17/minTemp",
+		"value": -15,
+		"file": "game:worldgen/blockpatches/flower.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/18/minTemp",
+		"value": -15,
+		"file": "game:worldgen/blockpatches/flower.json",
+		"side": "server"
+	},
+	{
+		"op": "replace",
+		"path": "/19/minTemp",
+		"value": -15,
+		"file": "game:worldgen/blockpatches/flower.json",
+		"side": "server"
+	}
+]

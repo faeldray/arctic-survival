@@ -1,0 +1,42 @@
+[
+	{
+		"op": "addmerge",
+		"path": "/treegens",
+		"value": [
+			{
+				"Generator": "oldenglishoak",
+				"Weight": 2,
+				"MinSize": 0.3,
+				"MaxSize": 0.6,
+				"MinTemp": -18,
+				"MaxTemp": 2,
+				"MinRain": 95,
+				"MaxRain": 170,
+				"MinFert": 90,
+				"MaxFert": 255,
+				"MinForest": 90,
+				"MaxForest": 200,
+				"MinHeight": 0,
+				"MaxHeight": 0.7
+			},
+			{
+				"Generator": "englishoak",
+				"Weight": 2,
+				"MinSize": 0.3,
+				"MaxSize": 0.6,
+				"MinTemp": -18,
+				"MaxTemp": 2,
+				"MinRain": 95,
+				"MaxRain": 170,
+				"MinFert": 90,
+				"MaxFert": 255,
+				"MinForest": 90,
+				"MaxForest": 200,
+				"MinHeight": 0,
+				"MaxHeight": 0.7
+			}
+		],
+		"file": "game:worldgen/treengenproperties.json",
+		"side": "server"
+	}
+]

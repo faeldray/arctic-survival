@@ -1,0 +1,9 @@
+[
+	{
+		"op": "replace",
+		"path": "/21/minTemp",
+		"value": -15,
+		"file": "game:worldgen/blockpatches/other.json",
+		"side": "server"
+	}
+]
