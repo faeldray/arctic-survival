@@ -1,0 +1,9 @@
+[
+	{
+		"op": "replace",
+		"path": "/server/spawnconditionsByType/deer-elk-*/climate/minTemp",
+		"value": -15,
+		"file": "game:entities/animal/mammal/hooved/deer-adult.json",
+		"side": "server"
+	}
+]
